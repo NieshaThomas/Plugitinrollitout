@@ -47,6 +47,8 @@ data
 
 
 In terminal installed pandas - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html - pip install pandas numpy - https://numpy.org/install/ -pip install numpy metplotlib - https://matplotlib.org/stable/users/installing/index.html - python -m pip install -U pip python -m pip install -U matplotlib seaborn - https://seaborn.pydata.org/installing.html - pip install seaborn In code import pandas - import pandas as pd numpy - import numpy as np metplotlib - import matplotlib.pyplot as plt seaborn - import seaborn as sns Mark downs Sections to explain my code# Plugitinrollitout
+
+
 After, careful review of this dataset we found that the population of electric vehicles in washington was 135,038
 According to the data presented, The state of Washington had registered 1,274 Battary Opeerated Vehicles and 661 Plug-in Hybrid Electric Vehicles. With Battery operated vehicle being the peoples choice.
 The sale of electric vehicles had an scenificant increase in the past few years. Sales soared from 1.05 % to 5.40 %. proving this State enthusiam in saving energy for the enviorment.
