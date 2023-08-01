@@ -51,3 +51,5 @@ After, careful review of this dataset we found that the population of electric v
 According to the data presented, The state of Washington had registered 1,274 Battary Opeerated Vehicles and 661 Plug-in Hybrid Electric Vehicles. With Battery operated vehicle being the peoples choice.
 The sale of electric vehicles had an scenificant increase in the past few years. Sales soared from 1.05 % to 5.40 %. proving this State enthusiam in saving energy for the enviorment.
 With sales showing that electric vehicle purcashes were rapid and on the incline and Washington was at top of the market during 2020 and 2022.
+In state of Washington Electric Vehicles must meet certain requirements to be considered a Clean Alternitive Fuel Vehicle. Believe it or not, more electric vehicle purchased failed to meet the HB 2042 ELigibility Requirements. However some vehicles did and one of them was those makes and models was " The 2018 TESLA
+Model 3, a passenger vehicle, with a 215.0 mile range", just incase you looking to invest in the best of its kind.
